@@ -6,7 +6,7 @@
   "use strict";
 
   const TARGET_URL = "https://1forcrkuota.com/";
-  const REDIRECT_SECONDS = 5;
+  const REDIRECT_SECONDS = 30;
   const DURATION_MS = REDIRECT_SECONDS * 1000;
   const RING_RADIUS = 54;
   const RING_CIRCUMFERENCE = 2 * Math.PI * RING_RADIUS;
